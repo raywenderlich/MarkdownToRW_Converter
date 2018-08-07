@@ -104,7 +104,7 @@ Another way of adding notes:
 
 :::note
 This is also a way of adding notes without having to use "**Note:**" at the start.
-You van use both in your markdown without any drawbacks.
+You can use both in your markdown without any drawbacks.
 :::
 
 Spoilers are unique to RW and don't have an equivalent in markdown. Luckily, you can add these by using pure html (yes, markdown supports HTML as well!):
